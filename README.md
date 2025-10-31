@@ -1,6 +1,9 @@
 # FL-DApp: Open-Source Decentralized Application for Reputation in O-RAN Federated Learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17492203.svg)](https://doi.org/10.5281/zenodo.17492203)
+
 ![FL-DAPP architecture](FL-DAPP.png)
+
 
 ## Abstract
 This artifact implements a lightweight, auditable reputation layer for multi-operator Federated Learning (FL) in O-RAN. The design follows a *minimal on-chain, maximal off-chain* principle: smart contracts expose a round-scoped interface for registering participants and ingesting oracle-signed performance metrics (NMSE, fixed-point), while an off-chain Reputation Manager computes per-client reputation and commits a single batched update per round. The reference deployment targets Polygon Amoy and is portable to any EVM-compatible network.
@@ -122,3 +125,11 @@ We include a sample Amoy run:
 ## Conclusion
 
 This setup not only improves the robustness and efficiency of the O-RAN ecosystem but also enhances data security and user privacy through decentralized technologies. The integration of blockchain allows for a tamper-proof, transparent record-keeping system that significantly boosts the trustworthiness of the federated learning process within telecom networks.
+
+## How to Cite
+
+If you use this software, please cite it as:
+
+**Farhana Javed.** (2025). *FL-DApp: Open-Source Decentralized Application for Reputation in O-RAN Federated Learning* (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.17492203](https://doi.org/10.5281/zenodo.17492203)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17492203.svg)](https://doi.org/10.5281/zenodo.17492203)

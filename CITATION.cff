@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "FL-DApp: Open-source Decentralized Application for Reputation in O-RAN Federated Learning"
+version: 1.0.0
+authors:
+  - family-names: Javed
+    given-names: Farhana
+doi: 10.5281/zenodo.17492203
+date-released: 2025-10-31
+repository-code: https://github.com/farhanajaved/SoftX-FL-DAPP
+license: MIT
