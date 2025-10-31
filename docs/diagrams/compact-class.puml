@@ -1,0 +1,43 @@
+@startuml
+top to bottom direction
+skinparam class {
+  BackgroundColor white
+  BorderColor black
+  ArrowColor black
+  FontSize 11
+  FontName "SansSerif"
+  AttributeIconSize 0
+}
+
+class fetchOracle {
+  -- methods --
+  +requestNMSE(roundId)
+  +fulfill(...)
+}
+
+class performanceSubmission {
+  -- rounds --
+  +openRound(roundId, policyHash, selectPct, ttlSec)
+  +submitNMSE(roundId, nmseFixed, scale)
+  +closeRound(roundId)
+}
+
+class registrationClient {
+  -- access --
+  +registerAsClient()
+  +isClient(addr)
+}
+
+class reputationCalculation {
+  -- reputation --
+  +initializeScores(roundId)
+  +updateScore(roundId, client, score)
+  +finalizeRound(roundId)
+  +getReputation(client)
+}
+
+' Relationships (corrected)
+fetchOracle --> performanceSubmission : submitNMSE(...)
+performanceSubmission --> registrationClient : isClient(...)
+reputationCalculation ..> performanceSubmission : read NMSE(roundId, client)
+@enduml

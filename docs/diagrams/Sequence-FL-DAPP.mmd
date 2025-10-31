@@ -1,0 +1,32 @@
+---
+config:
+  theme: redux-color
+  themeVariables:
+    fontSize: 22px
+    fontFamily: ''
+  sequence:
+    useMaxWidth: false
+    rightAngles: true
+    actorMargin: 60
+---
+sequenceDiagram
+  participant C as SMO-Client<br/>(DApp-Adapter)
+  participant ORCL as Blockchain Oracle
+  participant SCO as SCO (FL-DApp)
+  participant A as SMO-Aggregator<br/>(Reputation Manager)
+  A ->> SCO: openRound(roundId, policyHash,<br/>topPercent, ttl)
+  SCO -->> A: RoundOpened
+  C ->> SCO: registerClient(addr)
+  SCO -->> C: ClientRegistered
+  A ->> C: distribute global<br/>model (off-chain)
+  C ->> C: performance<br/>parameters
+  C ->> ORCL: client, roundId,<br/>nmseFixed,<br/>ts, feedId, sig
+  ORCL ->> SCO: fulfill(...)
+  SCO -->> C: PerformanceSubmitted<br/>/reject if sig/ttl invalid
+  A ->> SCO: closeRound(roundId)
+  SCO -->> A: RoundClosed
+  A ->> SCO: finalizeRound(roundId)
+  SCO -->> A: ReputationUpdated<br/>SelectedForNext
+  A ->> SCO: getReputation(addr)* (reads)
+  A ->> A: weighted<br/>aggregate<br/>(Top-K)
+  A ->> C: distribute updated<br/>model (off-chain)

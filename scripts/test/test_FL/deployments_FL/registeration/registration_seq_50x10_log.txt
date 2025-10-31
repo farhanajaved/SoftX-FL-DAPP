@@ -1,0 +1,1000 @@
+Iteration 1: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x2ff3a07c83a5d519913542caf58abacd642779bb50d52ae3e4bc8dbd7c2d5eec
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.410 s
+Iteration 1: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0xba0b525367fc39a2683e1ec2bbca80c31bb9990997e0c05f801d4124eb245cac
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.675 s
+Iteration 1: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x4588138687a0820c559ffc93de4c3ca3aa65ac03bb503aa246d4d0a5fc8ced2b
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.333 s
+Iteration 1: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x67e9d60ef4392be4026279f596c85a9227d21f6c9181955c1e57172c54939e44
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.742 s
+Iteration 1: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x2469a1d6c4285bcdf0b9df1635200293725588007b7e4d8229410bf595730205
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.738 s
+Iteration 1: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x8ddc1cc0704d8db5009f776ff3d43054ed11afab67282d234451c6f5fe5d56d4
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.825 s
+Iteration 1: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0xf49dc325f6ecf544313f75dfa56861fe1764775be5dde5d17cc65e5b1bb0fef2
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.495 s
+Iteration 1: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x4e2260762e745b679711acb5d059d295456c0c578f593bd1dad556944cab3a66
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.646 s
+Iteration 1: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0xd95a5a220ac52dbfc7434e4769b4da7fcc769e6c2d795f8ccbd28f76b85b219a
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.425 s
+Iteration 1: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x61c675b6d371caa90af7c96f69865aaac8318d26158cb39f9fe90496ca465077
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 10.030 s
+Iteration 1: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0xc3f2a0568e49689c5db29774d19f763d34831fff90f5fd4e7315af985a3b81aa
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.780 s
+Iteration 1: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x0f099becbf4aea8e90f583943862963ae9e0e24cff1af67f88c79be0d7b4cf8c
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 10.061 s
+Iteration 1: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0x6a275ba53826956a21a5199bae183c4c01d4d9ff57d669cb99bf6fa38e99c404
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.058 s
+Iteration 1: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xd6b868fb99d160f0066f7d5c56a292ff003b257aad871b7a09cdf8ef75213c4b
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 10.192 s
+Iteration 1: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0x324ef879ab169a78ee24839c4436776f1c84a8f7c23458374719dce18febfc3d
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.012 s
+Iteration 1: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0x998d538161b9c54a562abcca83bd096a8fa352f999e74c5596d67d50343cd8e1
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.433 s
+Iteration 1: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0x956d66ad008f3fd8de58a8c30e7772dd52f574800e9d49631e34ba3d51c5798e
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.397 s
+Iteration 1: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0xf8db49e273277c327c9bd9d882f4a3c098db12593e491630d737886a808efd4a
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.055 s
+Iteration 1: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x037373e491f18cca3c7b3c65d2d9505afd943a7e30235d11c1e3ba906350937f
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.330 s
+Iteration 1: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0xead5df9b1539f89d8403e70aa596efe52554e06f20676eaa5c932d44e1397365
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.471 s
+Iteration 1: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0x6a3599106d0a1daa1f64363f30fe10327766137795df7381c54144dc56941c48
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.175 s
+Iteration 1: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x99f7527d25429f074b6a0a9dc445cc01b6168023c8f8169ce816b1f3974c7db9
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 6.291 s
+Iteration 1: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x4641ddcd0c028570c98977b79060f2732004a9838858950ab77efc39a55a47d7
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.600 s
+Iteration 1: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0xb8a9da88d45fa9296d328975c79c4f64c4ed4317bf0b92da5163cfb3ed72d3a5
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.631 s
+Iteration 1: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x209d7e5f442cf08ea6c5519743f02fb592c3008c824818a0c284792c4d86a900
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.062 s
+Iteration 1: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0xe8c323c57751b8e943a33615dc39c28778ba463b9932f3639f080decd86c8a7f
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.074 s
+Iteration 1: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x843dc7251de75f608317e68ec1a1106c5ddac43c67aa5d88a9b2f8aa418b55d1
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.238 s
+Iteration 1: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xf2ceef512d84482dfd526c4defe7667e215b0773da73d9f4f8afda96b84db285
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 10.893 s
+Iteration 1: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x74fc4b734dcbf106363ff1fcccd0fe42465a277f7745446ba0d5f144c04ae865
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.865 s
+Iteration 1: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0xf090fb2d721a4cddc8372ce90e4e66fda51d0b76888dc27628f6f6529f317dbd
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 6.552 s
+Iteration 1: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0x47671c7e0044189a23ed853f91086c491e13176d87174bad455cd013ffcc30f1
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.032 s
+Iteration 1: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x22f7996370f37db50fbfa968530d8bd1d4e5dc37ab69b924fe22cf6589a66a8b
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.179 s
+Iteration 1: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0x650a3a28a0140f34e95931d78a674e8d0641a26e558ba03ed19d5e103a95f57a
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.477 s
+Iteration 1: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x058d1df8647c01d744acc9c18bb9218b56f5f1cd10e980b2560aff353b68349a
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 10.498 s
+Iteration 1: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x439990c93e81a91709d45e98f0604809996a74db849fcce2bf5d6161f7ee9fa3
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.683 s
+Iteration 1: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x147d511e5089db87004a88f09f9fd20d86d816c05a61a68712b9df84b5a806af
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.089 s
+Iteration 1: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0xdadb1525f92249a8fd499a36c15e276c697ef15efba0efdf62fbcdb0d4461af2
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.901 s
+Iteration 1: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0xebc54450070478372fb000debd9d007290c96aaadd0ff2382029512148eaa227
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.388 s
+Iteration 1: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0xd3c0f078f8b2e9575c55e272cb983b6a6292417cfb8f1e4eb4f324a83aefa880
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.400 s
+Iteration 1: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x2ee15c92dcf34ed8a3ca55cf170af6adceca41917cbc5b265e63b7f6c29a553b
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.086 s
+Iteration 1: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0xa123ed6434dfc177afd5045ffac5e8fac5acc1e0844e0bdf6d4e8deb18341c0d
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 6.216 s
+Iteration 1: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x94554d129bdb6305eead852397d096e93d67209f812069f68468a0d43f622615
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 8.950 s
+Iteration 1: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0x585ebce7d90fde1152c403ff489689c883b29d15161b560527304a91c5b94762
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.169 s
+Iteration 1: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0xddaae0ce4f63a88ea4c2bc11a18df3c6ff93963f63f0285d3c4ec32eac718531
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.906 s
+Iteration 1: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0xc8a7ef158494b790bc45d7482353bf0ad287a921d3443d159e84502f7ebfa5b0
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.507 s
+Iteration 1: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x5bc5eae2d5eeb7068a992308eba9dd7f7f63757a1d08029f2e25dd890531d7c5
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 10.037 s
+Iteration 1: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0x5429fd0a5daf24788f15258108f7351790baf9e16fe907ee19c9503e55bf5ff4
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.173 s
+Iteration 1: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xdb678dbae49c70b9add59c3004f974fd71e0e2228154a655566c1404d5b7aecd
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.522 s
+Iteration 1: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0xeec117be4670ff39ff5a113cfa5a964acb27e245fc54b140d34c801a239835d3
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.345 s
+Iteration 1: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x88f9c037a95966ea18bee4c8d14ef32d161996cc97d57dee88e436c191d16135
+Gas Used: 43464 | Cost: 0.00006519600065196 ETH | Latency: 9.336 s
+Iteration 2: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x7b28a8069b9ba61cd214e6887e4d3ac9a94884b8fc757ca3bb0e53ac653bba26
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.356 s
+Iteration 2: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x75a747ceffe35c03079b8f2af0c9e7a59aaa4cd5b75a68cd87565e05a8c27757
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.758 s
+Iteration 2: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x9a647131cd9e51edb496543e54caad3b48a89e96c3b922f0e9264d27b4eab213
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.055 s
+Iteration 2: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x6c5479cc03944dbf4ff67f29a32dd1c555528c0bee38160f3d704b11b5f7538c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.065 s
+Iteration 2: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x6f9b3f8cc0afcfa6cacab0112d0b3650076b18c6e304b65fbc19da67686360f4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.039 s
+Iteration 2: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x1b61ed72f6f973285db13d94f7bd5862612900d0c0c87763946e5d5a91a374cd
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.430 s
+Iteration 2: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x2da03925c321e284477484209f182a021dfc858c689d62a5660c3ccfcd735637
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.528 s
+Iteration 2: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x85b5ef483a7aeb0d9e18bbb8db5a0d376b93b74b24bfd4c1cad4858f6c0f6743
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.144 s
+Iteration 2: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x79d0a00ed67f9a630ad158cd3677173d72aeeec3a6219c97c18bbf242581e18f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.370 s
+Iteration 2: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x832050893becf5c6148b76a72e645851b9582f9e729bb88518e0f227ac3e18d5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.700 s
+Iteration 2: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0xc2d090e6815688d894fddc3b6b8f6e7a332ddfe1e1db31019ebfd8f20ca76996
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.832 s
+Iteration 2: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0xc32aff0b1daea1451784ca156e41b4e73e359816b24ad99da6285bac53f2654c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.311 s
+Iteration 2: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0x200b21a60baf35f11d39d3695ad2fbf316fc23bb1ba29b280676badef2765039
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.364 s
+Iteration 2: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0x7afaafce9a072e5357b7f6bb573d4a58c9ee54ecfae3ce38dcdea2962d18458e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.299 s
+Iteration 2: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0xbead7766be9fe251bc900d8f6d4a6092d4f64146d9f89a48bb11138c9053734e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.973 s
+Iteration 2: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xee393efe97bed1bfdd4c862a2ed1c55dca6b511568758daf72151b72a1264ed8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.420 s
+Iteration 2: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0xb25697d19211aa5b53bf516f302db8f90b88ce19a296bda1d8cee28d6eb1292e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.122 s
+Iteration 2: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0xcf505e798af6aad8e5d36ce3fc7692569563569286c201e64a3f711e11df12ca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.439 s
+Iteration 2: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x9335f8484ea567bbece853ba6d2e22d57c3ae61528d1c1a866d48e20162fe301
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.157 s
+Iteration 2: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x68e2523f0c2f1139599f4ebf3e3f15389831bc99a354387bcbf6db536369af74
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.081 s
+Iteration 2: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0x50dbd76222b6ef0a804f45658b36c3cc3c83869ab34a485a2ab7c4a1b7d90097
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.567 s
+Iteration 2: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x55b5576a27fe62800ac40438f630cb497e64750ea7e76219e958450a812307cc
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.178 s
+Iteration 2: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x92890f6b1ab495f994b9c987098b9bbe69f37b97bdc633639c76d41506cc001f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.273 s
+Iteration 2: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0xc0027a281d03984e667387c5469a3c4ea091b7cede75a1a61325da5ba6dca8b3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.702 s
+Iteration 2: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x386d3971e4346f6dd2eceaf698e33d0d3dbf2d07df9c929a83d48db31bbb50f2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.013 s
+Iteration 2: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0x3b56b68b0b08a1cd8780461a5444c1a30ecb7fe4e6b3fb39f1005682bfb33ec8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.293 s
+Iteration 2: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x9d0f7e0ebe5b85d9ca93f59d48b8ec44dd2a4178d74987cad21a5c6b65acfa9c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.287 s
+Iteration 2: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xf6ac769b790b1e47b0c033308454c22e1d3f6b95848b93f7375e10914c235a60
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.979 s
+Iteration 2: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x95af291f619cc7c191e1f36493c6fdba7770018f0be2c238560fb1d674682268
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.959 s
+Iteration 2: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x0e6db3a8078395bc0240232b8ef5509a583ab02a0e6f6615a88fbca4cbbf0433
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.829 s
+Iteration 2: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0x1dcba71fa1e2f5a52dd503396bd096805b8d98ff1269743b437c7476ff2948ef
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.163 s
+Iteration 2: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x908dd1ceb220cbec3619f394760911c27fdcd5c3e7db9f78fe789f30599da734
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.594 s
+Iteration 2: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0x02f0e5e0a7320c537c335d996c33cc887d5344934459154860bcd402c5814ff9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.357 s
+Iteration 2: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x015b35ee81661a6b20f045ae4513535f2ad7ead5b83b709d1904f50cbd4c3e5c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.684 s
+Iteration 2: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x51b47deec58691110e022870640a4314dbde551e2b4cc7f16913fe20221d4ca0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.873 s
+Iteration 2: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x35e1ab0ec1bf22c67a95895564790f1b75fd20cf99ace28f868c3f51fa77cee3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.265 s
+Iteration 2: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0x67cfa906c17874301428e6aaa406020fc0210c8b47e5e04da0e94a993a6f8541
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.723 s
+Iteration 2: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x45ef9f4d51502f022a84ece5e93ac2db3abfb7facc0bd8e34f3b1f172e21ad18
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.170 s
+Iteration 2: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0xf3ea95f1e32e31d463f2b4b4950140ed13b61e7dd183e87948554a05c377b0ad
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 41.424 s
+Iteration 2: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x8c4c2ddfebf4c3da9113b1492297020e8fbefb6116853cbd960ee27cbce8b512
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.424 s
+Iteration 2: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0xf2d7fb5a3662e5f762e3c4964af40b26b24fdfb92ba33074f18c495dd19137b3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.349 s
+Iteration 2: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x074c386eb4fcd75cbf948096370790731d039afffdba5dd468eacb7dfb0f074b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.007 s
+Iteration 2: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0xaf251d88be6d069ebb6cd9cded80e17a0dcc58d8d7970d23769ef10f63192c49
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.054 s
+Iteration 2: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0xf4b569e6f1fef356e74b568fa7e4aaee323b56e92f415329199d6cdcb0e1e54c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.899 s
+Iteration 2: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0x5abc9429833396337c81097fc3cc37d1c9485307dd9e8da0f292f53a1930445b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.662 s
+Iteration 2: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x0b8ad46262d75c3bf991cbc3462fb65629fb76f9ff36cc09999caf16fcc011c3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.244 s
+Iteration 2: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0xa105f0881fec8308101d582e55b1f6b4e1e152531c31804f94e61ba126a19a08
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.990 s
+Iteration 2: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xe2e56342bcac05e0d5166821962ad19ca036121ecbf6d5f2eed58f456835c6ca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.811 s
+Iteration 2: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x9cc260a4cef1cfbb267be1fc8bb9ccf9979db6a5eae7090df0fc090524ad958a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.285 s
+Iteration 2: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x86b298cc470af6345cdcc8523d58ffa63898e8f6e0431069bb36ddaf8b500563
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.390 s
+Iteration 3: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0xc55f4b9ebb81b1fd821f42c74797216fbbc8ec7b5af674c1807ad0e5d17eb3f8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.387 s
+Iteration 3: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x7ffec0aa34b77923e2751525520067e390dcf092ea1a69aba513139ad22705a3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.167 s
+Iteration 3: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0xcf4de566a79f93f8d28859e31a873e472b18af370c90a9b698a4a6789231eda4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.524 s
+Iteration 3: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0xa4e099ab8aeda227ff545490dc0bf7c76093d577a439333a3464eaceab33f1b3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.329 s
+Iteration 3: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x5cdbe0c13a99a664e4d3e8128f43ee98e8f57115ddd155990bc031493ce806e8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.591 s
+Iteration 3: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x75b02c3eee715d354a3fac7c8549e5d7434d4343200ab70fa101cddef501ddf3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.256 s
+Iteration 3: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x945da4ac91dfca580165572bf799ef7447b24efac2276f11f30535994c8ba83c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.379 s
+Iteration 3: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0xa6d1b5dffec0b9d93c441c2597233e7ea4525481c0b4a8811007dfab3d1a0b12
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.697 s
+Iteration 3: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x469a2b03e1ed5853aeca06b7f3aa421bd3ba1472d1baf1fdb93161c8efa5fb19
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.597 s
+Iteration 3: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0xd864e01ccdb63a52fb35eb779d9ca7bbc4df68c921e40809bb01c2dd3d7d205a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.999 s
+Iteration 3: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0x00472c79aff5b7bebb375dc17e8199094c940c3b376932f075c8e6ad0e8ac8e9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.403 s
+Iteration 3: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x1bc921a89f050f4c6ae0186339cc98e46c02eacdfabf979bd36253076b10d854
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.007 s
+Iteration 3: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0xf4c43d353ba5fbae2e1c4fdcd6729060f4b7d12cfb9b294e02cf8aa88b0b1aca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.378 s
+Iteration 3: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0x048642a27b1387d379d8f4e6906d0f911d3e13bf41f79c87b2c949d8a496e879
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.405 s
+Iteration 3: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0x0017e1d83627661f521c8e640a81ab831fc21f7bd8ed9f62d095bc2667d5e5b6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.186 s
+Iteration 3: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xadb7e7e29809acd40b05d0606ee7e7131ee3a9dcd8db63dc98a5b12d0e26f9ca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.270 s
+Iteration 3: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0xd182199537ba2626f84bb2add4ed94f965f4ef5d9915d54cc0ba0c69e310ff85
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.369 s
+Iteration 3: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0x5688bb4abda5addd5219539406dbdf5c570f3ad0b6df8d194ae0ed115179d0a9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.704 s
+Iteration 3: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x93338c5490edb347fe49725dde9073eeacfb9774b1ddbc6330717217d276edb8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.254 s
+Iteration 3: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x5b75a5b7b68088bbc09265a0901a9e28c258ae939e830663cb0722aa8b0245bb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.198 s
+Iteration 3: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0xc2088d575c8356b2e979b35b662a764561e19ee53d62ca6debc8451e95eeaaa5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.789 s
+Iteration 3: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0xf5094f120a8233247c1c2dcff08ce708792771e93680ae684a3fcede724f5019
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.216 s
+Iteration 3: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0xbfc92dec9629a9f566ef43c01fd87d15226b98cceced4b714b89610a6b072548
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.101 s
+Iteration 3: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0x71ae4cb4715d4d463849bd1bfccf8a65bea4ac7de40ca77ba55e6c918c072b91
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.419 s
+Iteration 3: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x0c53f45ad6265af2010d385df486269f9a8e559554a3f5d1dc7c1911095e33cb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.109 s
+Iteration 3: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0xf7b2932bc32807820c9ede9193e46e091baf26bf7309123cb1bdf330a8ebe8f4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.266 s
+Iteration 3: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x4fa2aa36aed81c67d0574a154c428609bf2153f2875191e080cb7ea0e8377dd9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.001 s
+Iteration 3: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xa5a6d6a3a2cff45ca67ee483ddd8a98c471571119eda7b2b3bda6185d6c6b1b5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.067 s
+Iteration 3: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x92ad8f7f15e1e1e88b49f04ba5c767a68f489ca10afb84f4821b61c28e33540f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.086 s
+Iteration 3: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x694fb8f8ad4226531f9ab88c6ed7ff4e80a097df27f2db69e0e203a154c09fca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.505 s
+Iteration 3: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0xfbc1d7740f5fc74be301e4ad162ada6d08ade815558f1e8ce9f7c5b6c3de6ea6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.199 s
+Iteration 3: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0xa04a1476db3bef313d8fe6b55fd2d9e2a4084bee21f923531302f7644764fd8f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.281 s
+Iteration 3: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0x470d15414a78abd659c455aeaf619d6272dac90dad17c6439cc3148bf47eadd8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.299 s
+Iteration 3: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x49f00c3b9c34b2ba98ad842d56755d6b9007e4003622d5ea807cbae340d8218d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.383 s
+Iteration 3: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x4edd775f7f710a65f724fd75e91863de5e13fef9e4530cad639cef8de49c1dd3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.293 s
+Iteration 3: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x1a5e0d969f6bd910371e524b5e4037099704274f97fef437be71b0e376d43f69
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.874 s
+Iteration 3: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0x3a877e21c875a32bff9e0c980b125cf5c18eecd6b08fa28fee969b10542fb7e4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.159 s
+Iteration 3: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x0681c0a6d072d74a600bc478660c96de35cf905b526da2fdb8da4f7e00c69d27
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.720 s
+Iteration 3: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0x4b811a38b51f99ef6a003107b8f8490710cb30c9df5cafa448980c03243ca914
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.094 s
+Iteration 3: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x72bfaa4755d8e62eaf54264b35723420411de9fa96622d9b3640a2c794a61915
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.698 s
+Iteration 3: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0x68783393a5068ccdfc936204f1c5ddb3b329c104996cf13cce54b215ee775a14
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.069 s
+Iteration 3: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0xca8ea1c886b0efd4dc74ddf8b2deb1f5348260e634c67bf51d75f614a1641a9d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.691 s
+Iteration 3: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0x19aa730d02bae411aa0a828d4d89e5da97caafee2def89d9593759833174f6ee
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.445 s
+Iteration 3: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0x1d1a6b2f14add80e06c6672afae2c02745a0882b5ac32b254e97ea07edb001dd
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.391 s
+Iteration 3: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0xbe252168771d0d3a392d063d10b91d13bbec460d7d2e65eab9753d1ef5d9cfec
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.560 s
+Iteration 3: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x6c468d5ec6f7849e0e2a8ae2ceea5cd5362ffb23ce47616712ed742bd296559a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.525 s
+Iteration 3: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0xb9869c8e10ea88cec12b0eb639926a396e229e362fa09d4aac3decf3e9fedf31
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.432 s
+Iteration 3: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xe3369d345e9aa124836fa4faeae12ded5a6a253e431e19a0513755165fc302d0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.275 s
+Iteration 3: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x6a1a9e932e4eb5d6c232b22feabe252540077bccf97e2509d11dd7defecbad2e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.489 s
+Iteration 3: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x19429897bb960dfa3065c25e707285d9c2bf828aaad1f7206288d35c2e5e7dac
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.765 s
+Iteration 4: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x8e1c3474db7c3ebcfb1f3aac030ec92b4b5f60cc7f3cd567fe60083f65f3d373
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.538 s
+Iteration 4: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x0ed933bc6773349d8b1b81c420434ab88f13d7442b26844712b73b2109e6f874
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.009 s
+Iteration 4: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x5494fc70070058c2bf27409fdd7d258fbaf47fd1daf6272ccca72903e15bd560
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.457 s
+Iteration 4: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x309046dc9908322bb15ea4e0b8a13d8f95e62c578ea2cfbf97a7cc620d8f98c0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.747 s
+Iteration 4: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x843ebeb1640e76a578b76eb5183aed7e39907395c835f6233bd5aa933a8b0ff3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.504 s
+Iteration 4: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0xbd81cafe5811695800cfba8d273485538388a69a81562d7514f7fc56866a9eb8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.375 s
+Iteration 4: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x5768774a4f98f6f7e6d1d4b6f3c2a11ede689cae6adf8bb90e7bcb02ed3161e0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.476 s
+Iteration 4: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x3c901806a41a3b5193a5fdfea648aecdb7b9d8570fc8d10bb3020b62470b3360
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.588 s
+Iteration 4: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x5652f05661a4055e635da1771cfde9e0c954d4d4670447f4022f1f9f10cb588d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.206 s
+Iteration 4: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x31f0651cfa2ea88cad1c10139a6058a2577975ad3686c6bd4fd24bea4f59fed4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.633 s
+Iteration 4: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0xeac8d6b879dc497b03a9e1cea30f76fb7daba78577b0069ff2d165d0199ea75b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.780 s
+Iteration 4: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x3bf4e8a32fe7e3f62987d253603750ce15d189c624e953a8f12160b614bf890e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.366 s
+Iteration 4: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0xb3333ca72edc3ebba871259f7b6dc1714c35eba8dc2c4a9798205821a5d137e2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.415 s
+Iteration 4: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xaed3e635ba8d1a26427c015f8861e2f41b81b8a363f97fbf699eacdfcb9a9b78
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.540 s
+Iteration 4: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0x637765dc8a52fb77c9faa8caf7209aa7cfacac17027d0c1a7c7fae892e96a120
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.539 s
+Iteration 4: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xcd0a24bd1b497dbee8303ccb685bc3ad84fc241d510aeb9846d4b5c76c27a5b4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.405 s
+Iteration 4: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0x04a68d6995eaedf8b7a19b4440a6639eb75628c11e60ce4d78a9102e80850190
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.825 s
+Iteration 4: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0x455a7737bc5e4bc4bd83b8a4b86be66b2d8024640faf5cfadb77c47774f5b01d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.227 s
+Iteration 4: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x38f71d3795735839b68294d99e6e9965a1811c6b5e337120bf65cebc4ca8f9b9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.119 s
+Iteration 4: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0xedf9af19b0760fe527849a70e05b5dcd08844a3238d2dfdc2fc5573339e18962
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.963 s
+Iteration 4: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0x229c0d66a8f559ab906ff0889d3dc8ed582e40dfe89630548e2bb8b3ee18d19d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.965 s
+Iteration 4: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0xa3fa3eb5b5a64e792c4ec120e7d4a8760596ea68dbb5eb46b91f50fe480f3822
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 14.865 s
+Iteration 4: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x0bddec7ac6fafc2c972df9fa56908579fcd09e3c311b9a4309e441a0ebb3615a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.656 s
+Iteration 4: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0xa411b6c463a9848950f487eda9a53fbdefcdb23efcc3c0462e1a194777253ed2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.360 s
+Iteration 4: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x16fa2049367253b57e076e83641c9ec7a5f04e3310888c3c891a072861461deb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.359 s
+Iteration 4: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0xde453c44f2e4dba7ad9edcbf0e827739c30b8668183dc7dfd17ad3098c39a73f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.970 s
+Iteration 4: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0xfddc91d3f05d467e5427915b468dd6f1f6aa310009aa7ab10010a03442edf1c1
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.508 s
+Iteration 4: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0x7c40d46c50ce3cbd2d791a5efd4fea142b962cdce9f2f22c152d554f5287e6e9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.400 s
+Iteration 4: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x05f013afc60431070ddb79e4d6997b42b6e2845bbe8298b19c9cfd0b4ad5bb59
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.605 s
+Iteration 4: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x935ec32ec2a77333a0cc9629aea205ccaa49131f705a5d2536b83172213a38e6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.218 s
+Iteration 4: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0x712a04be064d7c35bf6a8c5ec6559856dcef7104372bfd2acb26d9a22851ca2b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.199 s
+Iteration 4: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x7bf676e5a43be183f26a78ac8c4ae9f79d907f01f29799f5f4e6d2dc071ecab0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.616 s
+Iteration 4: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0xef06af502e080f9efc388cc3bf8c0b2ed21da4a07f8b801cc73ee3dfecd6c090
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.354 s
+Iteration 4: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x06f5bdf7a5397c4771d97f94378baf1710087590e7164f4913088c079cdff729
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.935 s
+Iteration 4: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x5af63addfc38cd718cfc0b2c889eed4bd6a2ef1f008ccd272d6e87d736fad60c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.229 s
+Iteration 4: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x1dc2d581d8ae3d44bc9e99453a84a2c488c629595ab77abaad16061d6481ff2f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.052 s
+Iteration 4: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0x1135fb8dde43f43cd1595196b9f1b99a3e7bbb5c106d0a3f6cf19c0c3f6ce48d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.611 s
+Iteration 4: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0xc0c2285edbe2fded117c46e36324a7e0ded6669dd0d2b1f14daa936cf17ec57f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.461 s
+Iteration 4: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0x8041e063f990995661f4f2160d5b3699e7034963c071cf2aefae9f23cbf4be07
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.757 s
+Iteration 4: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0xbd4e613c9b3e742a1b47f6c6e53a6ca876c4b4c72c539dfbbc0589b960557b00
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.246 s
+Iteration 4: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0xf21dd8d66f52ce768754dad71bd8b568ba99822b88e2f887a4a7f12909a6ba5c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.285 s
+Iteration 4: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0xf9b0baad3026698f33e4391eded49e0bdab820f6851fc3fc7f1ab0b37cb7bfdd
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.195 s
+Iteration 4: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0xc6d6812f45d4239534ba9a4dc6678f7d8ee080a95d02c4405d64120aa8dee329
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.086 s
+Iteration 4: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0xa56beed71ffd2ca419daf44817d30dc0b36055ccf1234ca0ef7c28a9309755f0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.053 s
+Iteration 4: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0x87d078509d683aa467ae10d6c75a620ef810891c301b19ba2ce141d39b6f066c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.512 s
+Iteration 4: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0xedef9b1d2e5be7abb877a2439a1c21336440100ecbbe7db4c70d06e6bd16d9d0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.895 s
+Iteration 4: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0x1f857c60694156eedf1086cf257586e66bc3e0a8f45e3c907c63f15ab1ba8734
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.526 s
+Iteration 4: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xbe9935cd014939b2f44a594d494e680b7fcf1d2a961942aef3419e87cbe137a6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.716 s
+Iteration 4: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x75b00d15ada007e3aa0d16b4bc1228c9cc8c1184309f556d5f620dbe49dbbd5c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.100 s
+Iteration 4: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x4d73d8d172e3bbbe0545497922a6753a58f31207fa5947dcb70823a141f924c6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.511 s
+Iteration 5: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x22cc2fbf3a5d583f591f4674f789fc4131eb457cd89a66863edcb4a25acb027b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.165 s
+Iteration 5: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x0426232e67e7544826fb5cc7747e8cc2c7b39bd5a1d369f1a5fbd84722c1478c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.421 s
+Iteration 5: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0xcc751f341c31edda4c903fa0e6131033ec42622a62a01f7c8cdb387c7ed7656d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.347 s
+Iteration 5: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0xc70150e2c009eed0be09d395fe4a5319a37811c275c4c9ea471230ac7904d26b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.671 s
+Iteration 5: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x9538a7210dd7929e73ea57b935d3ffb1833f61b522ed13b2e9fe054145fcb277
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.717 s
+Iteration 5: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x9acd13b9ddcd0d6e9868fc1f5e235fe326181df26285f434c023e98715ec368d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.248 s
+Iteration 5: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0xb9237d40d95715ef0ceebaae7d0c5335e4eba17a0308812aac858186808ac609
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.535 s
+Iteration 5: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x452c6ab531f6321cd9981eadd2b333f5bc2cfbfa747c471aa995e756c05dacdd
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.642 s
+Iteration 5: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0xb0a356d34b586f21c75e9b8a55f31376da5b53d9a753c46083377b7feaf8597c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.402 s
+Iteration 5: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x28cf38af0eb776461644647e8470bfe55ec06936dd8db72829984c9c877fbf2b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.576 s
+Iteration 5: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0x12d49a596ce131c8d482a6d76638ac3643784a23b6cd4bcd0ed60379302e77ff
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.821 s
+Iteration 5: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x69eb0ace527f5f93db6c22abba43ea139700921e2a81aa9a5c66ac4796e31b8b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.369 s
+Iteration 5: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0x0bd422d3b5e1d42fd22006a278b3a7fae53944488d35c8b6851b1bdb79368d3e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.309 s
+Iteration 5: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xe29f62a55bfc069d7b062a03ef879c5d399db8afbe71272ace55852673c5e90e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.483 s
+Iteration 5: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0xbb3ace4e2cf2f2e3f039e277ed4b31d6e5d10111adeff69bf1e39ff2a2f14ad6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.783 s
+Iteration 5: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0x6f92cab212fc8b7db1fdbc108cfcc0c1c42a8a3e864bf4a6811e6a80247b62ff
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.576 s
+Iteration 5: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0xff3f7bbe32a890eeec151bd9edcc40495c72544e395a3c4951ac3f5ca9280f2f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.846 s
+Iteration 5: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0xcddb6b82b91f662ac90dfecd4609c607ca27bfcbfca812f9d4722c7bc60e5418
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.701 s
+Iteration 5: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x2be44733f2db9d90122c53848ccd387de0de406a09d96302d9733f6da3fdf542
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.310 s
+Iteration 5: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x86963762851937709796826346166966a493eb210066370f8a72db430161167c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.937 s
+Iteration 5: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0xabb21d47eeed519ba28d81d6f603d535c59963829b4b6e51cb2222c91fc60a08
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.503 s
+Iteration 5: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0xf79b78217fec65ae8c4ca41f6ac9f5a6801b8a0bb972dad9bfe19306ea2d0ee0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.966 s
+Iteration 5: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x1b72349ae4ee5d2a930fb8d0de311a6534431ed7d7dc9e498078c8eb2a10dc51
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.877 s
+Iteration 5: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0xd50b6ccdf1117bc2d73f94f6bb7e67295d8ec5abe8eae02665183e54d0c3f763
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.907 s
+Iteration 5: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x7d7171bd55d239bd87a1792be0131a44dd4fca3c1ff5cbc8c1b5141ef35bdc88
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.977 s
+Iteration 5: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0x3ca600de1198a976f0bd913c1a7257ea4fea6cc19d875e1c63eaacbd3741ca43
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.998 s
+Iteration 5: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x2055c83e037168125e39d28dcbdc41afe2a8a78dd842478ee186ec158a524aea
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.140 s
+Iteration 5: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0x458186f9673e7c11dd3e864c4067b249716e715f2deb17d0adb0706ecd4fccbf
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.750 s
+Iteration 5: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x7c38a150a7d3104db8583362838f46b31c3faba9c7ef9ce099ab5445c2dc7219
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.565 s
+Iteration 5: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x3b67dcd45cff4bdb201ed9e9865adcb29643ffaca4d2e91beaac1c3e81cbcba8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.923 s
+Iteration 5: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0x6cccfc19bc6e69f170bc5afe4833c7d1ee3cc968ea4a61c9c88251d9685cb59b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.681 s
+Iteration 5: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x3c355409e40da677a685d54f35fc0eb6f29d4d5fb42f0420489db6345db8c6f9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.138 s
+Iteration 5: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0x9fe9b11ed4bd3b2135d35dac5ec6315efda1ecee846e7f9de594641757dcf070
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.378 s
+Iteration 5: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x066f8ff9861cb77fc689a3879bbac95d36e7c1c8987ba8a1b3b7758333cf362e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.733 s
+Iteration 5: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x75490f809f7b971a241e99143b5f736293cade0ef610d77bf6e67834e865f1dc
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.333 s
+Iteration 5: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x954ce778de27a405b4f1af935e47da43c191e680f42a7bbf53ee83657abdc9b0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.345 s
+Iteration 5: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0xd9ec7e7010095dc1f963e698507ed0f124691ffc146bef70db108b27f067da44
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.140 s
+Iteration 5: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x35083365a78163a89b32f55c43f854b2a5dce4205f3149533d9692aad9047145
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.310 s
+Iteration 5: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0x3e955d735048609b2fb6d470c4ed3e9385f0e94546d137b569cc3c2dedcfdace
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.219 s
+Iteration 5: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x8cadfdc5195f41dcd62727c492d8c1933e4e480dcf68f39a0405f63b39ac0568
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.976 s
+Iteration 5: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0xf3911c3607321ef9a7736f7b0be473957d4cf1f4fddfec017d61060e1b4ce521
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.116 s
+Iteration 5: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x37c62c5f1360556ecc6d40a50718628de55dfd614f9f968c4e263886c387517c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.509 s
+Iteration 5: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0xa3b0e054c322e3ea0ecb98202b862fbafd223835faf7e9e25379ac331f496b54
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.659 s
+Iteration 5: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0x71ec38751e158d87bceb02482ef0edf3063c2887f69287703d70ed36967df6c6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.605 s
+Iteration 5: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0xc8da68d340a80070b4e68c793208a1f8cb684bd5e1abf73069381304e59f374d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.725 s
+Iteration 5: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x66d823b0ff7b094555a67755ae5798cf570cbc5ec861ace0078d8298db4efb01
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.270 s
+Iteration 5: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0x9f7b5dd8da3b51db1ded0790ba29203feede7ad9861e08d1b4b6a89563d3d67b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.553 s
+Iteration 5: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xa495489bd0b2d59a0512fdb120ca6f010b970f965adf4a6314311502e8b47473
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.774 s
+Iteration 5: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0xcbed19dd7fd2aafd151f7622a7801f05ddc9242023d7f3302389f9162102a8ac
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.052 s
+Iteration 5: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0xfa54069a2df1348a4264d758d1cbb4068f4df546a9d392fcc53b34e330dda937
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.794 s
+Iteration 6: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x6099e6f1c8fef6aefb1bf7e526e6fd7cb1599769cef17006f55a80a6731c4914
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.205 s
+Iteration 6: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x2c087dcd757eb63229a588c9d139fe8fb7bc5b2c8f32e0c588e5f3077ff06d90
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.671 s
+Iteration 6: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x4d2f4dcd1a9fd9399b2e19e769976023be9a48d57a0f8e189ac93e78ec59c7a2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.305 s
+Iteration 6: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x411989125ce88d4a0c5ea1c093367a53475a26389d8d6851d932f7a988e2e2e6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.000 s
+Iteration 6: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0xecf002272cd86f416be842991b378839c3039dbc82ee22c137249c19516ce922
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.308 s
+Iteration 6: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x45020c80c242fcf12f90c247dbe2a9134897bdfdf5f27682ffa0b3a3dbc6cf88
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.005 s
+Iteration 6: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x2e19f2263f9a3c965be5410bb83f51d65a5f7e0bbb00d6cdf71a34a3f121f190
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.380 s
+Iteration 6: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0xed6165c329bab24607d798264f3e03e3ab04c374a3c315cd736e589d3d6ce16c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.032 s
+Iteration 6: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0xc765d4632a489a91753fec0043df129fcddda701f4946099958aa95fd8ccf07a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.454 s
+Iteration 6: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x4c432d2dd9716e1a8998585cb9dd14b47496cfb7cbf8c715b76d83e624b3abbf
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.107 s
+Iteration 6: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0xde92669e3e625d245f5e029633867f97e550215b14ef475b73a210c7346ac48e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.588 s
+Iteration 6: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x8ab4d8aa2047f6971e89d81c73f6cb0795cb44188e1cc9d3cde03d212c63b2bc
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.406 s
+Iteration 6: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0x11715ad53c7748a741c5e20db9b8c04027c02d90cf8b629091563f71d9cdfebb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.675 s
+Iteration 6: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xbc822ad6d63eb4d24ccdeaee93824c2b2e9fefcc6d0ad55f21435eba70c6f2b8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.108 s
+Iteration 6: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0x3525910e6b289b73ff9e5226710962a23244edbb71074d78502cd98ce5b6094d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.475 s
+Iteration 6: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xfbc6c728fb9856327a4dbc820aa1e96f8b8ebd6d148e1d97a38a6b8c02a61e56
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.116 s
+Iteration 6: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0x7ed20133676ef52b99b8d821392f56c77fd35959cf4a38854022db0d5b92d032
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.502 s
+Iteration 6: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0xb5e09c34c2d9aaf59e01dcd5dad9d8eea660ddbb9b7eef8a2d60017d6ea69638
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.562 s
+Iteration 6: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x373cef3261bc1d66f93d7f0d1486236a70a3ae90b2413117bea696890e566040
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.746 s
+Iteration 6: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x09b83c05cf786c0529fa3baad3288603ad963c292ab8e9f7fd3ccc3413e4e1ef
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.173 s
+Iteration 6: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0xb1a1df11ad020273ef37d70c06e6ced8beb0bc8a23dd9a5a6f6cd95d4cc5a107
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.424 s
+Iteration 6: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x2b7d562c4b8fd0410f3a6d933589d8acd0bc0ec06273b922539bc5a85498b027
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.722 s
+Iteration 6: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x0879a3d32b0231b4fb451b0e010a72abc544a097470b94e3da5867ee1967f6df
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.509 s
+Iteration 6: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0x979709fc5514bb139a70b1f8311dca5fb91f275bfd234e1b45593824daefb0cf
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.547 s
+Iteration 6: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x138e10ccaea9d781f52f89db92f31a21a36d531f2141ab9bf949780625eeb871
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.951 s
+Iteration 6: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0x18aaeefbd6d85af4a1d251328faf1c93cee4922dc65507e8f66a72080c651453
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.114 s
+Iteration 6: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x9b76f194ee4b61d87be3bb38cb72661ba7792ba798360dba20d073dcf5b2d4ac
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.108 s
+Iteration 6: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xcb7c0e9e1613e0fbf59f372ce2be366c30a67ccf3699c4338d71113327646451
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.037 s
+Iteration 6: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x8f7854f762a68dde777404d9fe4fab6e12b8c4d02d104b5d433c9fbb14f66bd9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.884 s
+Iteration 6: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x4ce8459f5abf56628c7984fb41c3ddb657d5c2e6e778cd34dec108f009433932
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.105 s
+Iteration 6: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0xa95fb69e9ccd6ecbb2dbbb662ef0b7af75b774b60f433d77c2bc5a2fb1bff958
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.956 s
+Iteration 6: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x6720af467162856c58f01883b7d83f4993d6e356679a737c007f977dcaa8adeb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.207 s
+Iteration 6: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0x5f962b7e17d3c8f0e4ab3e65bff972ef3b228d9853a1fe6cb6fabcc179d06d72
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.620 s
+Iteration 6: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0xa6a6230125558b344c5fb00c8565e58323c7489b9ed6fe5b96d836e284eb4543
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.140 s
+Iteration 6: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x5126ab1642e7c1f1756b8b1e37c12f43bcbecb54b496ae4df586da73cd942eaf
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.054 s
+Iteration 6: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x7edacd1537294db4ae6ab7763152d28632ae770050795526d334ba5933670be0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.419 s
+Iteration 6: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0xd6aadc591ae761e5e1fc937866f5ab57cfd18405340751bd711f36440d79ae1b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.303 s
+Iteration 6: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x0382e8cc76b83ff488c92ef9ae8ed8324c8d001024fb86f3a92e2ad844e1213f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.338 s
+Iteration 6: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0xdb2baa7d893dd019c6fc7c9382dce8a62397508f0241a70ce0ebb202990adf87
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.573 s
+Iteration 6: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x1f774261988b087ea0bee464f6f2063a4e786a5e59e4744e3bc819f523952c69
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.444 s
+Iteration 6: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0x7b7fc515f588a42d7e1a4148813c8783e6988fbb7053e8a0eb3ce7ec67c55e1e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.642 s
+Iteration 6: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0xe75e159e8b4e6db9c214d45243e1a25b833044237357965053526f153ea5bf9c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.233 s
+Iteration 6: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0xdacf8a25abb643e62d4b5fe54de0297f859d7ed28c5568bc99627dec025071b3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.010 s
+Iteration 6: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0xad19618d7cdabc21e9259c5c2bd986a17aa86412cb47cf0794708161326eb2ab
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.079 s
+Iteration 6: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0x1bf4a9ed2ec49082c11f305bfe7397e908379e1c4b5a5574d3bb9a704ec2f45d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 13.784 s
+Iteration 6: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0xf53e5defa6d64c44e8b89f9c9a9ee8e383e9108fbf3cbc6299c03a05fc3732aa
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.173 s
+Iteration 6: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0xf378698ceaefdaae2a29f47c9704321999e8e522247dd6a0d3562d634e261a58
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.480 s
+Iteration 6: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xbe3a4fb9ee4f9ef7e002ec0050f975bb4ea05f2a11cbefa18396ed97e99882c3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.459 s
+Iteration 6: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x2bb5af87205368a34be3c9914084b8c9b1a7c2fffebc6d089352e9db454c9f41
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.902 s
+Iteration 6: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x542f3b38e14d1daab0a6e4a3b764c63417b9eaa7c407821e4a1860ddf9124317
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.607 s
+Iteration 7: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x47a1f8e0ee44ec2b8301e620e63670e2349df2fb8112dd89746336898fc8ccf6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.723 s
+Iteration 7: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x0101f0c798975039526fe66847954e39d525986b17127f26ffa3766d30683df5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.355 s
+Iteration 7: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x8f7fdcd0ecded16b1862b834c7c94e70ee3409c601fc334c831a5b87d3160ede
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.159 s
+Iteration 7: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x0c0377da992420803327956493cb6b8a3a26ec4c56587bebd2ecefe3c75034e6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.537 s
+Iteration 7: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x6e085588fc49abd1771650f86d1e50a26a5b89afff2ca05145a1c7258c1db4b3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.143 s
+Iteration 7: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x3ea264d8259d7a976c9578e2af10b8ae0134d09b05091a9ac1e6f365c989be9a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.833 s
+Iteration 7: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0xfcb027d6872291072aa682aa3352d26e01bb56f0d48606502a8ab742415a5433
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.805 s
+Iteration 7: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x511a2405325e2489677a49ad423831ef543ea3b8db422be42f1b0dbe2449d09a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.689 s
+Iteration 7: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x9a891c08ee91477f44ebafcfad7ffaf8483c8e699844debcb50e4c844e5cd727
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.690 s
+Iteration 7: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x32401ae6d3be220e61a61414a223f75ebb5b627066df753095727b2751d9f293
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.477 s
+Iteration 7: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0x7aca71aa4523c12d8f2b82d8f44226ec2b21e6296422a88c6db51e4800f51604
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.811 s
+Iteration 7: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0xd4eee762a171b25f652aad1f1c926cf21e66a0067f75205c0c1a521e4dfa3f21
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.335 s
+Iteration 7: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0x89fa201cf58006388ef108bfd7917cd85070c957b8ca54abb0573afa6a6e0b22
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.675 s
+Iteration 7: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xa2dc7fe21c1009c3946d7c78d9e30df7f195b11fa01ad54ec0ef1b25ba6bcfca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.584 s
+Iteration 7: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0x3d363325bf827c7bcd815b5e5673b7610c9db948b61363ac952d46c883a4e6ea
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.129 s
+Iteration 7: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xdaca97c707954088e9fc4ac35b4c4252bdd1530a207712f8101449798acc0589
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.619 s
+Iteration 7: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0xe578f20249ead05328931c4de5064bec1627072ce8ea836cb8bf0bff76dd7573
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.996 s
+Iteration 7: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0x464b7586a151291e52a22d91bfc3b1409c31ed1c2c55b557dd15f7b6b44a8b3c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.409 s
+Iteration 7: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x74c8b10802addafdba0cdff0605937a817acb25d21a6d78f5a59cb2144671135
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.383 s
+Iteration 7: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x8dae57aa05832961466c0fc7a499e0b5c3ca31a3476cfe9bfb37e260cbc1d2c0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.352 s
+Iteration 7: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0xd4bba35cad4516396083488872e0396dec9999b847b6a5d9ab1ee2cc04f0b9ea
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.696 s
+Iteration 7: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x333cbeaa795da9e7f75b68264dd2333b72b734f9649dba4f00955304c9135280
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.596 s
+Iteration 7: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x9092cd6c1748f729612c9fdd3b9a2af1842a34325c3361566449f89891355bd6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.813 s
+Iteration 7: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0x5cd1429611dc8b1b5bd97dfab2bfb8bf65fc0a97f71e49817e662969387fb41e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.602 s
+Iteration 7: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x8f0cc712cf672eb80108b610dcdb8b1431425d454b264c2ecdd789933765e9f3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.580 s
+Iteration 7: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0xa6c26000910f014dd5728a74051b98f255d91d98de0bc90367ee0fb4deddf1ad
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.597 s
+Iteration 7: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x06d312fd952e10aa96d0c43506255b8a48d338f6e5d9dd77e233b93ea206037e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.269 s
+Iteration 7: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xdf449074a681c6c17088b429c98c65c4801940fa86789af996447f3bb3b8e283
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.108 s
+Iteration 7: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0xbe62b6804c95e1b0bc301b6b3f92c7cb97e9302f56413ed4328b786f0b60af75
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.475 s
+Iteration 7: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0xd7c910d55e6ba7e1d6ce15bc4092b5fdbc7baf05489895eda8e2fcc21c4c457f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.986 s
+Iteration 7: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0xb62afa9754c01b3db3f3ff9e4bb639a49f839b9cb629e1fb20bbeb61ba1d7d7a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.458 s
+Iteration 7: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0xd06b8ab95ce519d71e9f4e1bd52c621366ee60eab03691dfabdf2aa410a00d0a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.801 s
+Iteration 7: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0x92d72f4b8e1e46a907caa7ef8efdb6b0493f8e5738263e11376896e9e18e2b49
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.584 s
+Iteration 7: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0xe6089cfbd1aec0cee244f8699b6661c3251468a55d79b001b82d93e9964118a3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.202 s
+Iteration 7: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x612bcb1ad458373d3e3547ff11bf534c77f53c981f120f5b769d585662fa80de
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.894 s
+Iteration 7: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0xce7aa549d9dae7550a8ebf6b632de8f6e1082a43bc58799752f41aae33deb91b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.869 s
+Iteration 7: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0xd97355662dd4ae781ee1c9694eb007bef4c9b75e85a2b612d3e95cacc08e3e40
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.093 s
+Iteration 7: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0xf4730ef549f69ed90add593cec2cf30337f98e03120d689eea7a7d1a1498f5ca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.999 s
+Iteration 7: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0xb0b042d9e262467b0c7e832c6ff2dffccc9ed21b061dfffc01ce3ef2a6d6c28a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.469 s
+Iteration 7: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0xda2950f97c74d3d01fc160be0a2727a70c355b97a127b38af8c59433bb313ef0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.624 s
+Iteration 7: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0xb6437438c24fc9ed64e3a7be6c87441222a0f09c442e69a2bcc23ef0250b9032
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.622 s
+Iteration 7: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x189da32fd585461b65e64c0a41de4842577ffddd29d0217bd3465b35a5ccf39c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.597 s
+Iteration 7: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0xa5c44e9a5b7695a9efe10bf5ae589a2660eaf911035414ce203429c65708e55d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.473 s
+Iteration 7: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0x6bf12fea4bf46d39983414ffb84861b5e0e7b008e79179d3d27db329d9a8a69e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.521 s
+Iteration 7: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0xb212e7ce9da006f6018340168781c9e3ed7660211871eea6686f36538c501ef4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.319 s
+Iteration 7: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x1a6671dd9b79258816f1d0dbb0d007b008c174222503c2e2a0a163fd05e77c0f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.012 s
+Iteration 7: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0x4f2884007f188087497163fbd70023c8f78bb39980e7a1dac6ba17f63c54628e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.254 s
+Iteration 7: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0x71127dc596365e0a0364d3e4e582ea9fc2ae16ebbfb2ba7aeb6c33a13134365b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.522 s
+Iteration 7: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x5304c2bb41411b86e0ecdb94c943d6afc21a72321c42f20531b3a22c75075f3f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.950 s
+Iteration 7: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x01e978aa56876c2286510cdf7e8a87d03b3e859378990ad604cd12492b868f38
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.455 s
+Iteration 8: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x3ad527243adae61894516f3f904beae230194d01d4e3bfe81cf982ab431b196f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.404 s
+Iteration 8: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x95faceea0a8120ea49848a31ad55e089e3872e2acfe3771e81be5dabfa785f9b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.452 s
+Iteration 8: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x435043c9bb1c0455b7013d8ec8484a2e8bc0d98ad7f510c6e037ac7c0a160faa
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.910 s
+Iteration 8: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x13d5f83d0832d58cea7790dfa88093f92ef90be5e84fdb4597f186b013c0f594
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.494 s
+Iteration 8: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x72b589101bdf0712f0793bac29bba8f197a236b662542f769d52db8cdffa9e23
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.680 s
+Iteration 8: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x9e825af7102a77ebabfb11945989b87a6b6a83d6d1256505db4043be433c146a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.544 s
+Iteration 8: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x2a337d4b3c293f06cd141dd3c64747aee24204d7b0653c11ab43f5951bb537aa
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.420 s
+Iteration 8: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0xa1d897890e80aae8123730f2bb9cd3355de50e7f4d2f6e6f8e0794ee1555bc7d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.287 s
+Iteration 8: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x49ea2b88d43f5d2672f9c87fb446dff015f587137c6c623959cb2f0369127a06
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.362 s
+Iteration 8: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x5539d50dfcceb9adc6397bfbc00eb8240fa48c457ee1a353b2919169c659ba76
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.033 s
+Iteration 8: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0xb08ab36140e89c41814d3fae4d277fa195e9a45cb28d2043e3bd60c88e9689af
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.333 s
+Iteration 8: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x576c6057386e923c61d7596678770d10998e94d7cbd90027feb948d0c69f6602
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.305 s
+Iteration 8: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0x7c5f47586a6264bbaff4726449170c4364da765ea6d5c92951d4fa467cd69282
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.553 s
+Iteration 8: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xbc3c10496bb52d9f64a08d3f54ba2ee3ca68dd66bae7c4cb843c9484ed994ad6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.804 s
+Iteration 8: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0x1c333ceb918b3616db39fa903c7ed03b583c36540f1fcd6114bf6cad165995d6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.267 s
+Iteration 8: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xcff7092b9b6c9e1600d3a237843cff978b13a8d3e3e31d615348a73a264a7870
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.532 s
+Iteration 8: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0x30e6ae432ebd49c2760525bf303da91d944852dc674fdf467c076638ac5e3e97
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.000 s
+Iteration 8: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0xb6382cad72a78858e4c4a91ffd3efe82dc81c34f838ceb17fc7da8ef3fa7acc3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.535 s
+Iteration 8: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x9ac390c0dce0a8b000ecebdc4327a6418379baaeb000cd700f50579d1dafc170
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.416 s
+Iteration 8: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x913d5b44fd8b806ce02ce5d528d8650139075083bcaa582199eec6b12fb3fb42
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.484 s
+Iteration 8: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0xfb91c969c078b889253ded0333ace43c3b9e84770c297f4237a070d8e6ab9a4e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.960 s
+Iteration 8: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x9c7ca37162adebf69ddc6410d3d8ff552d9938d4fe092264aff37c38b03ee17a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 5.539 s
+Iteration 8: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0xa05446758469ac1d07a6ce78fceb519c76bd06420a9be956191961fcc2db4d5d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.818 s
+Iteration 8: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0x3029ff7e228b7ea66ccee545f597bccce129054fe22cfb6d76d1269cdab419af
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.539 s
+Iteration 8: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x6882b219899d75feb13e67f3a7395fe2f0f65e437be4c60543b54e7bc97ae42e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.496 s
+Iteration 8: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0xdf4a31876f606da071e23e3b2e26b1d1c09e440bc4afad7401fc8c304c7ffa4c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.534 s
+Iteration 8: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0x1aad60a6fb49dfcef25e8479632c18336936e1ada1573b346af1d93288a23594
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.619 s
+Iteration 8: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xccccca6927c4a223db8493d1dd9cf869e50bff887ddd4b4afe45ef089f2d6faa
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.205 s
+Iteration 8: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0xc9a7b99bd10967fe984ccdbf2808cfa5da7d86ac69567ab4872918caf3e5fad2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.473 s
+Iteration 8: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x40e9628953c441507fec7c1743de6fbfac3b9df54a430f608e9ff3aa01cd30ce
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.495 s
+Iteration 8: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0xd125dab9e2b80a0b29be7b880685d349b081059750d07645544221c423327a88
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.310 s
+Iteration 8: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x0cf23fd13fb07522b3878165fd89ca2a20960928d7c3748d807b941841aa69f1
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.481 s
+Iteration 8: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0xc22d8c15e4596c74d8954ff58c5cf6cb3d45182b13343cdcbc288d6478249ff3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.776 s
+Iteration 8: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0xaa80ad6ce49adcd4ef7d386b1add16523bf6a761fce26137c3cdfe438d85c275
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.452 s
+Iteration 8: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x7d868a74fa182aa4c3c081a322b80781a695e2827f1489e85c484de452152aa8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.703 s
+Iteration 8: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x62242a227031f9fef92dd88abf560e9bcdf9785b6cf76dcac2c59d694c591350
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.967 s
+Iteration 8: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0xbc68223d591f3d0c66905421c594e2b2bb6d9764dc50cb233416e4b29b0ef19a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.669 s
+Iteration 8: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x2e5927500f8938c55675d4842a55f22ac3257a94168b6eb8c70e5cb27910d4bc
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.152 s
+Iteration 8: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0xd9f9fc405bca4cd3568f1a407b2ccc5193f35c4bbfdce653e87e69c95bda98d2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.165 s
+Iteration 8: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x76b29a7edc6a19215d96b6712e7721007e60f6a8ebbd87246a491d9cc9df17e5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.136 s
+Iteration 8: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0x2490a4791ba72784078c4541ed16468aae31d3592f141b5df67e57e63187a6f0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.170 s
+Iteration 8: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x6d67c382e1b66fcab35080748dc4e832d5ba18bb799f9c1070de2f248b6dda48
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.025 s
+Iteration 8: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0x4e118ebab2466a7c33b6f323ff11c9475bc303036bf1f01e4bd03cc3178fc353
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.831 s
+Iteration 8: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0x86a94c4811080900e05b2882b6e7c75aa9cb1aa60b31a0e6dd757ce0d7ed6aa6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.652 s
+Iteration 8: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0xb93c13a008b0de06344869fa15d30322c77a76051877aef47da2535420441174
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.403 s
+Iteration 8: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0xb94f04c52a86ad39dd47eab23761a512b04cf574ea9bbcb1238a7a2320dfb45f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.792 s
+Iteration 8: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0xf14c995c298dc6463333ef5352fb5e4a65f5821173459d7ef72da28fcc9fd5bd
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.446 s
+Iteration 8: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0xb07a0f6ed76176f0f86ed504f9a2af441aef5ae9b3e428276f47e4c6d0354f3d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.585 s
+Iteration 8: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x62da04025f25336e9f1098ef7c8c93ab8ac0bdd6d765a8d2180a6b8ed70b1ba6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.319 s
+Iteration 8: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0xa3abe7b60891381d3b48ddc426c13baca07db1a0da94dddd1e3cad7d380c9d74
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.738 s
+Iteration 9: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x45ee220598e3108fa49f758967e73635cf1af6acb05330d39398b2752ea87da2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.041 s
+Iteration 9: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x815a3638103a79a3848131e68ace8fedacf6fcf888fbe41ae24e7c582191e45d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.733 s
+Iteration 9: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0x6ade5c716a7c477c8f5b04d813d1f5aa42d089a53926d6d3c27896be84f0126f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.293 s
+Iteration 9: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x154c41a2e6721c820f8f7a2f5b3b9b6949ab3393eeb2350d787c0e1dedb2b914
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.665 s
+Iteration 9: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x15545e5f008cb41b1450cc24528bc63a3bab23f72143d2c545ba2fc9da616901
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.972 s
+Iteration 9: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0x41b41c0a7d91510d39cf917cf536616cdbd776f3df4ceb77b12e3d36ad7a9fee
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 8.249 s
+Iteration 9: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x25a2c9082c0fcb07ec45fa1f14494b3f996de12a6cdfbbd44a8018b965dd4b5f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.512 s
+Iteration 9: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x8775a9a77d0fc881be7160d20c1e98d2ae19acd4da89a07a7f4bda49d6a60d7f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.521 s
+Iteration 9: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x0d36d47504553e31406d641a8e82d86d20b1a29d1a2c17ac239e5456c6e67fa3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.053 s
+Iteration 9: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x19843055b200ccce2bad6d7911387f99bb8cac05e117c61a3c474d7ca4fae892
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.917 s
+Iteration 9: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0x6c4fda09af01a6c24e76706baaef4d76e0fd4cbee816207f34e1d5ae96273164
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.961 s
+Iteration 9: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0xafc5dbc52bcb51e7ce3165a17ac527dc79642192b7680d0f45da99a9a9ae21ae
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.333 s
+Iteration 9: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0xbc0061f94edfc5be8107cf68ba5606c4b962d5d4b21a5c89ce18b2ac1c0463c5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.380 s
+Iteration 9: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0x1962d73bec78768861389690914dc9ad7a7aa3689ae7a95e45ff0ba61af0b270
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.893 s
+Iteration 9: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0xf6a22f7fbeac1c868e35abd51e929f7f91f8407fabd1901d3d738fdaf9fcbfe5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.449 s
+Iteration 9: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0x388a3be422bd5dcb455a7db9253e592a9cab94be2ed6d422c7d70db84421b642
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.095 s
+Iteration 9: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0x791653fc66a602a314f533010eeb6f65a0ca87c4e659a6f38edb68c1a20de362
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.507 s
+Iteration 9: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0x6521f59054b7e4240d2d6b9afcc7df64362c9d321ef1664a20bdc94855578df0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.243 s
+Iteration 9: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0x73bde524329416dcfdd10728c4d5a786eda5a06342636f54146e38e4167ba742
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.238 s
+Iteration 9: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x7c21b77c4185f7f9ed164deaf17a575858f737b82fbcda44d49b6b516cbf8cca
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.051 s
+Iteration 9: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0xa8f2f70272d4956e4c5e1cd9b88eb48ef39fbc9d88611dd708d9cb787b889fa2
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.160 s
+Iteration 9: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x59e38c25679be676e7c468ad95ae1caed71890588cc2da226351d7cf1f4d09ea
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.550 s
+Iteration 9: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0xbbe7bc0f2ead4ae44a4063e1b02a70944835db3b47db244f6f5dfb8cc83bbc66
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.321 s
+Iteration 9: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0x85e9c01f66372c1401535e52cca1d25f46626b0620181bd102ab725e8948fc00
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.791 s
+Iteration 9: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0xdb3eed34883cf4b0996498266e35a4ba132470ee301231452fcb7e22a970cf6f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.327 s
+Iteration 9: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0x83680430d4135ed47c7681e5f57c54cda11d634a8b2e412f8464e957b53ab0ea
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.145 s
+Iteration 9: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0xc8c1966ccfa89ced34136f180347db4a7bc6b4d58e0fef294879dfb512a89460
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.177 s
+Iteration 9: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0xd24bd1f9cec2e1cbf26b24111d084a7562db4727ce2f9ed84c31e4b1fb0b58c1
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.453 s
+Iteration 9: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0x14546e031b95eab537cd3317be9a7f4614e672078e3d240948567740aad203be
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.358 s
+Iteration 9: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0xd9fac0719bd845a16fe00bf64e32f9d531db70036318a8dd613b2fb1fe1040a4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.128 s
+Iteration 9: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0xe19bfa7dd6a8ac7e706acdecd16a10f95728d289b9ea3e81810504780e7f59ae
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.018 s
+Iteration 9: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x8c94322d738fbfdd7da73d4bd49b3535921202a711efb250155f33715c59fb7a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.571 s
+Iteration 9: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0xa5c91691cd0e13761f854202ccbfe73754eded82f03bfb8a763538c907f596a6
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.087 s
+Iteration 9: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x4a8862ccbdb831059866198e3356f45cb2e251153477bb7b3d23de817f7eb4d9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.573 s
+Iteration 9: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x74e53031439f5d8967b228425787d6a45c15d7cb7153fa27f1268512b369bb17
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.961 s
+Iteration 9: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0x4f80ee5095cdc974e5365e63d1952d9a1b1a9252cc3ba0e63feaed5e1f2989bb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.367 s
+Iteration 9: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0xa09600fc47116faacc06db4c8b8c087698a656ea3d202903219acd04759376dc
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.776 s
+Iteration 9: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x7c37ba8382ecb1a694762918d3287b975dafa34828538007945fcbf9c92221b8
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.322 s
+Iteration 9: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0x27e8d8f57ddf926c4dc8b25794c59e2cecf8da9d2210b5c5399d8f3ef30f7352
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.697 s
+Iteration 9: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x9ca4517411d7750c68b9f1a0e3b3fb6e761b875bfee06bb44dbe92c03f69cde0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.265 s
+Iteration 9: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0x80db3d3e1a16ebdf152ac2452e0afc6725418e1ca897fd1e3049f57574d97578
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.338 s
+Iteration 9: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x974e85074f4a1e41437cf9a4ed535cec172cbc4a234fab14156ea95e9745e0fc
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.470 s
+Iteration 9: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0x43e6f1c5f31fc916fe9cbfed2dd43e1b243d393a49397b36f853a1bf76810458
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.957 s
+Iteration 9: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0xf554e20e4a8043be852685d6c8ab327df884aac9c6961b359bc5539df378c2ed
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.300 s
+Iteration 9: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0x4a044c10fab62a9f8accbabf24bdb3b2cb8aa0ff19aa3b45afb16a60fcbadeef
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.512 s
+Iteration 9: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x9db279cb6fa15c5278b50fb4f873d19397216527b8a1f34431876a26841bd961
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.484 s
+Iteration 9: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0xb5ef5b01a5587a29aa7dd939031f0185ecfa739f7b62f37159ad033be8b48b8c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.121 s
+Iteration 9: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0x68c883a70ccb778ccc9e4274ff78b0b58bdc285877e48cd7e98695236ae3b995
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.193 s
+Iteration 9: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x7801a1af4ce713a2ab8469f7e8724e007d5f89c9ce1d14a35d32e4466cc9d45b
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.602 s
+Iteration 9: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x85c1f2a1a782fcf8c2fb1a8857cc48f0343a74d66aa19f77478e0bb97da6eeb0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.700 s
+Iteration 10: Client 0x591F3084a57F796082906B8a42512A24b42dC76A registered: Transaction Hash - 0x0204549745c61013805c2f53ddd38a6def81ccbd1dc51b3aae24c4ef97836a35
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.208 s
+Iteration 10: Client 0xf9858762714E5Df6e8F40bb31c6d9dEB5015a687 registered: Transaction Hash - 0x8ab16b1cb5e2722c1107b73611446cb36b1eab8c8d606c49f4d865c8beeffd52
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.183 s
+Iteration 10: Client 0x0abD193402016637939921aDd5B177Ecce861b4C registered: Transaction Hash - 0xa6e506d9f789b75086e8d620daa416f6ff7d19a09f0b2c4c0104990d99e2e121
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.719 s
+Iteration 10: Client 0xb9754918254D0Bb2ea35498C5064Ac713ECb0292 registered: Transaction Hash - 0x5cd709a0c14fa93d736c68c8d42037d5976813e24e86dbd6d2d549b86c496e9a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.288 s
+Iteration 10: Client 0xF838d9E41ca547086b414D37dC18370C1d9E4a02 registered: Transaction Hash - 0x5b28b4e45727dd134d3cdc05ecc488a9522560a8ae2c1d65f648b3fb10099cae
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.475 s
+Iteration 10: Client 0x2D4F7339377D8Ee4fF5f3396A6D643b43625dAA8 registered: Transaction Hash - 0xa020606658e1e928297ba08dc2a680a3fe401f86c10f3ac87fe03b734879fb46
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.466 s
+Iteration 10: Client 0x4E88d374D3A17F76f66EF05B8A310BE67f7ACa55 registered: Transaction Hash - 0x680637dfce07a8ed68d6311750188a1d37fd816f4d1f5e76fc908953aa5216c0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.461 s
+Iteration 10: Client 0x14c1Cf5410e9981c2f21632BfA12B0AEa7012610 registered: Transaction Hash - 0x3ba7e6c33d7a1176d58e4247e64a00cceca0303875d2a038d3af54bacab779d0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.462 s
+Iteration 10: Client 0xd19C22BE013954fcFAb1aaFFEd4e684363C625a7 registered: Transaction Hash - 0x35f11b8a97ae7b4cac7a0594db477bbb198bd880009fe2ce3997051af07f689e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.360 s
+Iteration 10: Client 0xdB378e3eC4e55E10d64AD9E66da37FA5DfD94F89 registered: Transaction Hash - 0x36e4683e54f5a7f7b20f5b22e7d03ece71a9feacd7ab461268a29a14ddc91e67
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.378 s
+Iteration 10: Client 0xFC3d766b4274FE65458F8A0Ec156064694DD3a23 registered: Transaction Hash - 0x0c2ecf8b4e05e0ce7c954954af4baff7bec2310fb72dc70d59af670a731e7c2d
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.738 s
+Iteration 10: Client 0xCedDacF97f637530aF68B2Fa22dE18333cffFF2a registered: Transaction Hash - 0x0316af4ebf31f6645b5133527df50b93ac0cc6593ded4dfbf1c3e27396b48198
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.731 s
+Iteration 10: Client 0xACB1c1Fd40730db25BdB8Ad7F4723F7F18C45760 registered: Transaction Hash - 0xc6f4f29f76771210ccda3be3fbadeb6e228faac88b6bd52283159ed22773aa6a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.109 s
+Iteration 10: Client 0xC419c4c288da14f7F64a617c015A22A356534351 registered: Transaction Hash - 0xe70ba286aa886d9a62584f16ad8d22ca59d8307c25ae96383f4c9c632a0d97f4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.883 s
+Iteration 10: Client 0xBBa08CCc84c60783bD6B43acf74D5c40Dd9122A4 registered: Transaction Hash - 0xb9ddcae3ee64248ab1fca99bf2f7a395a5f62dad0a70d9b00aa4af4efe7521f1
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.991 s
+Iteration 10: Client 0xE1B847DB0A9105Aba4f9F7EC8de0c02629EEdB67 registered: Transaction Hash - 0xa4303054ef0e2b171003e7c01fa058a0f5c22c2653a92e316292d842b0b1e2f3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.601 s
+Iteration 10: Client 0x16F3E0472ddE05A3054568C68122Aab714119E58 registered: Transaction Hash - 0xb16296f2b70f4dfb29ab5a8c2096b5d1bed7610bfa82364fe87eaff930bed048
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.467 s
+Iteration 10: Client 0x56843cb1fd90213f09aE8EC98D27B7abc8621cDc registered: Transaction Hash - 0xdf72f9e942f0e873f4da726b074d25ad9ec786c3dd98e7e34b87f6ace188b621
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.568 s
+Iteration 10: Client 0x69BfeEfC77E1a28A742414370F65e43bb1b23EFF registered: Transaction Hash - 0xfa68aa5ab55e1d639bdae208403497cc562020f0693ed4330394e4902ab8ddeb
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.859 s
+Iteration 10: Client 0x3c2A9546ee55909a28F55f2ecABd449d26700CE2 registered: Transaction Hash - 0x663b0696c0a1bb346fbaa189729f10e8e6e346cb83a6b1d683968824c9a74b3f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.559 s
+Iteration 10: Client 0x22183A64a42E7d24445673621C2504A356B58BfF registered: Transaction Hash - 0x3b9e71f3be8e35909cc697945e993b86c0aef8d74cf90b90b5fe179823e06eb7
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.517 s
+Iteration 10: Client 0x4a6280c619aB9DaD26C8a085b108EA9D41bA364B registered: Transaction Hash - 0x782114e45671b42c40637300acc9d3424a951c4a18e3d17fa89a421a39383a31
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.243 s
+Iteration 10: Client 0x8F863BFfaA7a8652252b98bFEad1BEB68DAd5eb3 registered: Transaction Hash - 0x4ed6086b30b7a52e018f2431c78073723e59bf0957e3cd4c597658474ff8ec9f
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.281 s
+Iteration 10: Client 0x1621F5a14a1627ef15Ec565ab95b50aa1a43b89C registered: Transaction Hash - 0xce5fd46f29f1db89d0ff9d60f44169acbea14df52d730b29d5c92749f988d6de
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.099 s
+Iteration 10: Client 0xa32007424B8382489EbfB2beb3dE6937689479e8 registered: Transaction Hash - 0x1cd79fcde4283981ba5ee95093a0a1404be5981a47e183dc20d5a2a979797395
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.256 s
+Iteration 10: Client 0xAE906d2a383fC49Fc3EDEf386D7c5E14Ff25A716 registered: Transaction Hash - 0x2b731d883d48b07dcaaaf830dc274a809e1c6443df9b7fec42b61b9d830a79c0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.913 s
+Iteration 10: Client 0xE94A59ae4FFbC94b0fbFCEde04745b85eA37Ec8e registered: Transaction Hash - 0xfc989641542bc8aab1f3ebccd23aa853d1e58a1c3aec13907fdb1e6b4e87cba3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.238 s
+Iteration 10: Client 0x9A880e5A12Bcc313897f67568450890870983b7d registered: Transaction Hash - 0x968510d56a1c67741f7902ba4013fc81db5073c5366722fd85e04d1a3fea38a5
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.769 s
+Iteration 10: Client 0x4Bf75Eb43741A99f79dC0777bA3AD09Cc9aC729b registered: Transaction Hash - 0xa55e40f8b00eb4d74db8e5af52e95e35be1d5deee2fe07b4669a8b54149fa862
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.570 s
+Iteration 10: Client 0xEb1B9e368E2458E658DB3B01eeb49Ebb394498a2 registered: Transaction Hash - 0x807f5bf77605483cef492d5074dd01a9812ddf55b62aa1674ed7a7b9a34c1224
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.319 s
+Iteration 10: Client 0xb7db1Fc0410D0c669276d9BfF5a26802e582F7EB registered: Transaction Hash - 0x141276655b3836e15e599deb6fc28cde023ba5b1aa66557a31908483485ae8c7
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.240 s
+Iteration 10: Client 0x807070454F4B9c3410722dD830024c37158ec3E4 registered: Transaction Hash - 0x89b4e0ec53e32bd1a87e8b3e6a48f8d0a58a910d06298111a76be2a23477d559
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 12.339 s
+Iteration 10: Client 0xB3c9d2FE62f8769F902bFDF1DC0b61461a607a03 registered: Transaction Hash - 0xf773198694374f7565672be284f437217107eb479ccbd86d32d8257d61c20ea3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.207 s
+Iteration 10: Client 0x1C5e8e278c7e0Ad646b1a949Afb2Eb3D53C5230d registered: Transaction Hash - 0x25086748456a6560b131b7585bf650bd524b7c3c92f59085f2d2fcd3519bd7e3
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.152 s
+Iteration 10: Client 0x33342ebEbE2e2cFB93f56596342F2E8E06D27804 registered: Transaction Hash - 0x26021a238d68b18aa55c3c490b991528c77f444c94740375cf2f15c3045c6906
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.907 s
+Iteration 10: Client 0x90384503875dfCc0f5024b51bc88834F79a39d65 registered: Transaction Hash - 0xf63e4a7cbcaa70efe5b58ff0e5abb98bbd4edfc1bd51c9f5bd236bee87799569
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.626 s
+Iteration 10: Client 0x702BFb0d7c58c240cA26B5c05904785AE55da220 registered: Transaction Hash - 0x9141d1348268056aa273c88a54b44a3b21b4a8b2f7054ae29eb0abd5f06e150e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.954 s
+Iteration 10: Client 0x07a5AEd9E7995aBEe662a72979F84D7eA63b67c3 registered: Transaction Hash - 0x8dfa659f31756824dfae121607b308a0692d36c51af966ff502ec5783a2946b9
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.468 s
+Iteration 10: Client 0x617B1B27019EEA09BFBABD4D98d22C745BE0BAaf registered: Transaction Hash - 0xf3da4aee11ff7bfd25a165f09c66e61df63ccc3a90327fffc5b9545f391c85d4
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.681 s
+Iteration 10: Client 0xA0811d623eA618762b004305C6ea3d44ED510dE8 registered: Transaction Hash - 0x1f1085575e0bfca67b2a80b497fbc6e206b3fe145aef5e351b34b25ec4da9588
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.907 s
+Iteration 10: Client 0x7f8D6f89EdBB3AEb6bE249bF89D161ADd93a96Fe registered: Transaction Hash - 0xcd90bf87e1ee5177609e8a2a7f5f45aa097c768a91bbd29f5d56c61d972a7e8c
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 9.896 s
+Iteration 10: Client 0x492A26f80e70152265ccb889840a60F6BfCA6Acf registered: Transaction Hash - 0x2cf995157c43fd093dac450836832727605d6ca52908176139ba4ee2172f1e69
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.051 s
+Iteration 10: Client 0x30Bb26B79A7a4612b103d06C6DB0fe04c010ddAF registered: Transaction Hash - 0x398c094279e579e969f26206727758c4c5bf9c284a63d168e0aa110dc7fab6a0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.552 s
+Iteration 10: Client 0x77D524474BDA422B3B440f6c88C47432dE623877 registered: Transaction Hash - 0x9b44c8b2b90a229b23d68c1b334c61b0f308d2f4827c04cb29793ccb0f195c73
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 6.510 s
+Iteration 10: Client 0x98A1C8460099d6e9eEb646763Bf80D8457444172 registered: Transaction Hash - 0x55b721f12259a937bcd21b6c65dc92d92a90c2bf86fc15ad768064fd26894b4a
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.245 s
+Iteration 10: Client 0x1BC65309b0128629cD92B97D0d5064e7E46F5dad registered: Transaction Hash - 0x54eb3ce50c635b1566ee86a9bf27ddd411df9db9e93237f05b7507f665f60aa1
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.445 s
+Iteration 10: Client 0x23Da35F8391894EDE03f47dcCB9573F4755d1A2F registered: Transaction Hash - 0xf3a7877b27a4dfd7e675feb8482f9e51b89e861bc26864c724f8fac10655a9e0
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.064 s
+Iteration 10: Client 0x29E1c9727dAD9f7756CD99Db38c1fbDC02d5377a registered: Transaction Hash - 0x8ca23bd7838f541377dca302a1f3545e9d6df17c318f5dc1e1136f652ea5327e
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 10.585 s
+Iteration 10: Client 0x31E6EaaF0Fcc3A514A1a3C7402d0a7872EB94Fd2 registered: Transaction Hash - 0x83989133db7bae706783d33074b86c746e412c7a26c320232e507939cf0d5e07
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 11.812 s
+Iteration 10: Client 0x91eB67C5eaA197B1a58d8274D1ad36cB50792Ed6 registered: Transaction Hash - 0x917969ea8d9e46b2fb8783137f78e5b881283094d54fdac0b182d892520e8276
+Gas Used: 23564 | Cost: 0.00003534600035346 ETH | Latency: 7.626 s
