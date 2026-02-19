@@ -1,5 +1,5 @@
 # FL-DApp: Open-Source Decentralized Application for Reputation in O-RAN Federated Learning
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17492203.svg)]([https://doi.org/10.5281/zenodo.17492203](https://doi.org/10.1016/j.softx.2026.102554))
 
 ![FL-DAPP architecture](FL-DAPP.png)
 
@@ -132,6 +132,7 @@ If you use this software, please cite it as:
 **Farhana Javed.** (2025). *FL-DApp: Open-Source Decentralized Application for Reputation in O-RAN Federated Learning* (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.17492203](https://doi.org/10.5281/zenodo.17492203)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17492203.svg)]([https://doi.org/10.5281/zenodo.17492203](https://doi.org/10.1016/j.softx.2026.102554))
+
 
 
 
